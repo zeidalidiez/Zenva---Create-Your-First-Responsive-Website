@@ -68,3 +68,14 @@ body {
 .single-service p {
     padding: 0px 16px;
 }
+
+@media screen and (min-width: 700px) {
+    
+.nav ul {
+    text-align: right;
+}
+
+.nav ul li {
+    display: inline-block;
+}
+}
